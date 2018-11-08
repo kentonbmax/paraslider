@@ -1,0 +1,19 @@
+{
+  "name": "paraslider",
+  "version": "1.0.0",
+  "description": "horizontal css slider",
+  "main": "paraslider.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kentonbmax/paraslider.git"
+  },
+  "author": "@ginjacoder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kentonbmax/paraslider/issues"
+  },
+  "homepage": "https://github.com/kentonbmax/paraslider#readme"
+}
